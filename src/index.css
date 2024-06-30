@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,400,600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: hsl(234, 12%, 34%) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.cs-h{
+  min-height: 100vh;
+  overflow-y: hidden;
+}
+
+.cs-bt-sup{
+  border-top: 6px solid hsl(180, 62%, 55%);
+}
+
+.cs-bt-team{
+  border-top: 6px solid hsl(0, 78%, 62%);
+}
+
+.cs-bt-karma{
+  border-top: 6px solid hsl(34, 97%, 64%);
+}
+
+.cs-bt-culc{
+  border-top: 6px solid hsl(212, 86%, 64%);
+}
+
+.cs-s{
+  width: 100% !important;
+  aspect-ratio: 1 / .6;
+}
+
+.cs-w{
+  width: 45% !important;
+}
+
+/*Text*/
+.cs-fw-2{
+  font-weight: 200 !important;
+}
+
+.cs-fw-6{
+  font-weight: 600 !important;
+}
+
+.cs-tc-1{
+  color: hsl(229, 6%, 66%) !important;
+}
+
+.cs-fs{
+  font-size: 14px !important;
+}
+
+.cs-fs-2{
+  font-size: 13px !important;
+}
+
+@media (max-width: 921px) {
+  .cs-w{
+    width: 90% !important;
+  }
+}
