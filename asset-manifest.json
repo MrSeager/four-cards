@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/four-cards/static/css/main.b851ef71.css",
+    "main.js": "/four-cards/static/js/main.bad8d851.js",
+    "static/js/453.206177d9.chunk.js": "/four-cards/static/js/453.206177d9.chunk.js",
+    "static/media/icon-karma.svg": "/four-cards/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/four-cards/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/four-cards/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/four-cards/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/four-cards/index.html",
+    "main.b851ef71.css.map": "/four-cards/static/css/main.b851ef71.css.map",
+    "main.bad8d851.js.map": "/four-cards/static/js/main.bad8d851.js.map",
+    "453.206177d9.chunk.js.map": "/four-cards/static/js/453.206177d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b851ef71.css",
+    "static/js/main.bad8d851.js"
+  ]
+}
